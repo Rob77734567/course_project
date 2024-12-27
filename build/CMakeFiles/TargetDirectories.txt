@@ -1,0 +1,9 @@
+C:/project_course/build/CMakeFiles/MyExecutable.dir
+C:/project_course/build/CMakeFiles/package.dir
+C:/project_course/build/CMakeFiles/package_source.dir
+C:/project_course/build/CMakeFiles/edit_cache.dir
+C:/project_course/build/CMakeFiles/rebuild_cache.dir
+C:/project_course/build/CMakeFiles/list_install_components.dir
+C:/project_course/build/CMakeFiles/install.dir
+C:/project_course/build/CMakeFiles/install/local.dir
+C:/project_course/build/CMakeFiles/install/strip.dir
