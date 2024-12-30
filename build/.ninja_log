@@ -1,5 +1,10 @@
 # ninja log v6
-8	386	7570283649028581	CMakeFiles/MyExecutable.dir/main.cpp.obj	cbb7e9a3611a83c2
-387	519	7570283652813991	MyExecutable.exe	245ff98fafbd88f2
+7	501	7572626017182393	CMakeFiles/MyExecutable.dir/main.cpp.obj	cbb7e9a3611a83c2
+502	658	7572626022116640	MyExecutable.exe	245ff98fafbd88f2
 4	167	7570274143133213	CMakeFiles/install.util	56ecf37256ed6ac4
 17	988	7570278825235723	CMakeFiles/MyExecutable.dir/json_parser.cpp.obj	3dba57212de69305
+4	384	7572634019081272	CMakeFiles/MyExecutable.dir/main.cpp.obj	cbb7e9a3611a83c2
+4	360	7572634296078402	CMakeFiles/MyExecutable.dir/main.cpp.obj	cbb7e9a3611a83c2
+4	379	7572638093214145	CMakeFiles/MyExecutable.dir/main.cpp.obj	cbb7e9a3611a83c2
+12	967	7572638093294094	CMakeFiles/MyExecutable.dir/json_parser.cpp.obj	3dba57212de69305
+978	1132	7572638102947370	MyExecutable.exe	245ff98fafbd88f2
